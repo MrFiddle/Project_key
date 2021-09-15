@@ -1,0 +1,17 @@
+D:\juanp\Documents\Programación\Project Key (beta)\Project Key (beta)\bin\Debug\Project Key (beta).exe.config
+D:\juanp\Documents\Programación\Project Key (beta)\Project Key (beta)\bin\Debug\Project Key (beta).exe
+D:\juanp\Documents\Programación\Project Key (beta)\Project Key (beta)\bin\Debug\Project Key (beta).pdb
+D:\juanp\Documents\Programación\Project Key (beta)\Project Key (beta)\bin\Debug\Project Key (beta).xml
+D:\juanp\Documents\Programación\Project Key (beta)\Project Key (beta)\obj\Debug\Project Key (beta).vbprojAssemblyReference.cache
+D:\juanp\Documents\Programación\Project Key (beta)\Project Key (beta)\obj\Debug\Project_Key__beta_.Form1.resources
+D:\juanp\Documents\Programación\Project Key (beta)\Project Key (beta)\obj\Debug\Project_Key__beta_.Resources.resources
+D:\juanp\Documents\Programación\Project Key (beta)\Project Key (beta)\obj\Debug\Project Key (beta).vbproj.GenerateResource.cache
+D:\juanp\Documents\Programación\Project Key (beta)\Project Key (beta)\obj\Debug\Project Key (beta).vbproj.CoreCompileInputs.cache
+D:\juanp\Documents\Programación\Project Key (beta)\Project Key (beta)\obj\Debug\Project Key (beta).exe
+D:\juanp\Documents\Programación\Project Key (beta)\Project Key (beta)\obj\Debug\Project Key (beta).xml
+D:\juanp\Documents\Programación\Project Key (beta)\Project Key (beta)\obj\Debug\Project Key (beta).pdb
+D:\juanp\Documents\Programación\Project Key (beta)\Project Key (beta)\obj\Debug\Project_Key__beta_.gamemode_menu.resources
+D:\juanp\Documents\Programación\Project Key (beta)\Project Key (beta)\obj\Debug\Project_Key__beta_.matematicas_rap.resources
+D:\juanp\Documents\Programación\Project Key (beta)\Project Key (beta)\obj\Debug\Project_Key__beta_.matematicas_rap_opt.resources
+D:\juanp\Documents\Programación\Project Key (beta)\Project Key (beta)\obj\Debug\Project_Key__beta_.reaction_time_teclado.resources
+D:\juanp\Documents\Programación\Project Key (beta)\Project Key (beta)\obj\Debug\Project_Key__beta_.reaction_time_tecladog.resources
